@@ -1,3 +1,3 @@
 # CursorMage
 Cursor Management Software!
-![Image!](./CursorMage/OutsideAssets/Screenshot1.jpg)
+![Image!](./CursorMage/OutsideAssets/ScreenShot1.jpg)
