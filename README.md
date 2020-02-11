@@ -1,0 +1,2 @@
+# CursorMage
+Cursor Management Software!
